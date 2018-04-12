@@ -1,0 +1,35 @@
+html,body{
+    background-color: indianred;
+    font-family: 'Lobster Two', cursive;
+    color: floralwhite;
+    font-size: 35px;
+    margin: auto;
+    padding: 0 auto;
+}
+h1,h3{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+#go{
+    align:center;
+    width:180px;
+    height: 70px;
+    font-size: 30px;
+    background-color:black;
+    color: floralwhite;
+    font-family: inherit;
+    border: dashed;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#movie-container{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin:50px 10px 0 10px;
+    border: solid black 3px;
+    color:yellow;
+    font-family: inherit;
+}
