@@ -2,7 +2,6 @@ var express = require('express');
 var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
-//var exphbs = require('express-handlebars');
 var ejs= require('ejs');
 var app = express();
 
@@ -80,4 +79,3 @@ console.log('Magic HAppens on port 8081');
 
 exports = module.exports = app;
 
-//2399999-0000001
