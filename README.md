@@ -1,5 +1,5 @@
 # imdbCrawler
-## Crawl the data from IMDB's website using NodeJS.
+## Crawl data from IMDB's website using NodeJS.
 
 Suggests Random Movies from IMDB's website with their rating and release years. Random app just for fun  :stuck_out_tongue_closed_eyes:
 
